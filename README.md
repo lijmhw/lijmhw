@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lijmhw
 - 👀 I’m interested in translation and ai.
 - 🌱 I’m currently learning ai translation.
-- 💞️ I’m looking to collaborate on translation between English and Chinese in professional quality and with high efficiency.
+- 💞️ I’m looking to collaborate on translations among different languages efficiently.
 - 📫 You can reach me at 2297426@qq.com
 
 <!---
